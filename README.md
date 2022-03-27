@@ -1,4 +1,4 @@
-# OpenTKL
+# OpenTKL based on ojthetiny/OpenTKL
 
 Fully open souce TKL keyboard project
 ![Alt text](Renders/OpenTKL.png?raw=true)
