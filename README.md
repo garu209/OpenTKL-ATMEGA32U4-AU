@@ -5,6 +5,8 @@ Fully open souce TKL keyboard project
 
 Use as a base for your own designs, renders or order as is (read important info at the bottom).
 
+i have changed the PCB to use the ATMEGA32U4-AU chip insted of the ATMEGA32U4-MU chip.
+
 Details:
  - F13 TKL layout supporting ANSI, ISO, stepped and normal CAPS, Split right shift, and split backspace.
  - Jane V2 CE plate.
