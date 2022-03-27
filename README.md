@@ -1,7 +1,7 @@
 # OpenTKL based on ojthetiny/OpenTKL
 
 Fully open souce TKL keyboard project
-![Alt text](Renders/OpenTKL.png?raw=true)
+
 
 Use as a base for your own designs, renders or order as is (read important info at the bottom).
 
