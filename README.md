@@ -1,9 +1,4 @@
-# OpenTKL based on ojthetiny/OpenTKL
-
-Fully open souce TKL keyboard project
-
-
-Use as a base for your own designs, renders or order as is (read important info at the bottom).
+# OpenTKL-ATMEGA32U4-AU based on ojthetiny/OpenTKL
 
 i have changed the PCB to use the ATMEGA32U4-AU chip insted of the ATMEGA32U4-MU chip.
 
@@ -20,7 +15,5 @@ Details:
 
 Important Info (READ BEFORE ORDERING):
  - I do not offer any sort of warranty for this, nor can I be held liable if something goes wrong.
- - Renders are not fully representetive of the final profuct 
  - Please, PLEASE look over the design before you do anything with it, it's possible and very likely that there are some errors, I'm just a human.
 
-If you use this as a template for your own design, please give credit(same goes for renders).
